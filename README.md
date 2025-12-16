@@ -94,9 +94,5 @@ This project demonstrates:
 - Authentication implementation
 - Database design and ORM usage
 - Production-ready code structure
-
 Suitable for:
-- GitHub portfolio
-- Technical interviews
-- Job applications
 - Learning reference
