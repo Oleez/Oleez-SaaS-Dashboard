@@ -100,7 +100,3 @@ Suitable for:
 - Technical interviews
 - Job applications
 - Learning reference
-
-## License
-
-Private - Portfolio demonstration project.
